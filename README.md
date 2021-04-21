@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Berkan
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript,Jquery,.NET CORE MVC
+- 📫 How to reach me linkedin.com/in/berkankomurcu 
 
 <!---
 BerkanKmrc1/BerkanKmrc1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
