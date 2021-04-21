@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Berkan
-- 👀 I’m interested in 
 - 🌱 I’m currently learning JavaScript,Jquery,.NET CORE MVC
 - 📫 How to reach me linkedin.com/in/berkankomurcu 
 
