@@ -19,6 +19,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="<img align="left" alt="Terminal" width="26px" src="https://www.google.com/search?q=c%23+icon&sxsrf=ALeKk01LExQhNuLGV58NBcSD_7WW7f2A-Q:1620225641778&tbm=isch&source=iu&ictx=1&fir=g4lD7YLBdtE1dM%252Cx40tCZaZo0DeXM%252C_&vet=1&usg=AI4_-kQNEl7gzO7mntcgGKmshdf7BhmUUQ&sa=X&ved=2ahUKEwjym9Xu4rLwAhULuqQKHYN1AnYQ9QF6BAgSEAE&biw=1360&bih=600#imgrc=g4lD7YLBdtE1dM" />" />
 
 
 
