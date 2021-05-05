@@ -25,6 +25,6 @@
 
 
 [linkedin]:https://linkedin.com/in/berkankomurcu
-[twitter]: https://twitter.com/
-[instagram]:https://www.instagram.com/
+[twitter]: https://twitter.com/berkankmrc
+
 
