@@ -1,5 +1,5 @@
 
-## Hi I'm Berkan, welcome to the my github profile
+## Hi, I'm Berkan. Welcome to the my github profile
 
 🌱 I’m currently learning and working on JavaScript,Jquery,React,Angular,NET CORE MVC
 
