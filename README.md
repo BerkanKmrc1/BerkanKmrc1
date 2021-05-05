@@ -1,6 +1,6 @@
 
 ## Hi I'm Berkan, welcome to the my github profile
-- 🌱 I’m currently learning JavaScript,Jquery,.NET CORE MVC
+- 🌱 I’m currently learning and working on JavaScript,Jquery,React,Angular,NET CORE MVC
 
 
 ### Connect with me:
